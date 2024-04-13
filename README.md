@@ -21,5 +21,5 @@ La salida del código es un histograma que muestra el número de canicas en cada
 El número de canicas y niveles se puede modificar en el código ajustando los valores de las variables `num_canicas` y `niveles`.
 
 **REFLEXIONES SOBRE EL BOOTCAMP**
-En el bootcamp eh aprendido conceptos basicos y avanzados sobre el lenguaje de programacion Python, este curso me ah ayudado a desarrolar conocimientos y tecnicas de programacion que antes no comprendia, en este codigo de la maquina de Galton los estoy poniendo en prectica, espero seguir aprendiendo para ir mejorando aun mas ya que el mundo de la programacion esta en un constante cambio.
+En el bootcamp eh aprendido conceptos basicos y avanzados sobre el lenguaje de programacion Python, este curso me ah ayudado a desarrolar conocimientos y tecnicas de programacion que antes no comprendia, en este codigo de la maquina de Galton los estoy poniendo en practica, espero seguir aprendiendo para ir mejorando aun mas ya que el mundo de la programacion esta en un constante cambio.
 
